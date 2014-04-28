@@ -1,0 +1,18 @@
+{
+  "name": "adapt-extension-plugins",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jasonbutler/adapt-extension-plugins",
+  "repository": "git://github.com/jasonbutler/adapt-extension-plugins.git",
+  "authors": [
+    "jasonbutler <jason.butler@spongeuk.com>"
+  ],
+  "description": "This plugin will remove all right mouse button events",
+  "main": "disableRightClick.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "adapt-extension"
+  ],
+  "license": "MIT"
+}
